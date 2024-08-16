@@ -24,6 +24,9 @@ mindmap
         (eine Wiederholung)
             (eine Widerholung von Lektion 1)
     fragen: "質問する"
+        (eine Frage)
+            (eine Frage zur Aussprache)
+            (eine Frage haben)
     antworten: "答える"
         Antwort: 答え
             Wort: 単語
@@ -111,6 +114,18 @@ mindmap
             (spazieren gehen)
 ```
 
-- Ich gehe manchmal für meine Gesundheit spazieren.
-- Ich gehe zwei Tage pro Woche zum Deutschkurs.
-- Ich gehe montags und mittwochs in den Supermarkt.
+- Ich gehe **manchmal** für meine Gesundheit spazieren.
+- Ich gehe **zwei Tage pro Woche** zum Deutschkurs.
+- Ich gehe **montags und mittwochs** in den Supermarkt.
+
+## Danke
+
+```mermaid
+mindmap
+    root(Danke)
+        (Danke für)
+            (Danke für das 動詞)
+                Danke für das Teilen!
+                    シェアしてくれてありがとう。
+        (Vilen Dank)
+```
