@@ -2,7 +2,7 @@
 
 ```mermaid
 mindmap
-  root((Deutschkurs)
+  root(Deutschkurs)
     lernen: "学ぶ"
     sprechen: "話す"
     schreiben: "書く"

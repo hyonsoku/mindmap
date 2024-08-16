@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-    root((Zeit))
+    root(Zeit)
         Morgen
             jeden Morgen
             heute Morgen

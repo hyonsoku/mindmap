@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-    root((Deutsch))
+    root(Deutsch)
         (Hausaufgaben: 宿題)
             (Hausaufgaben machen: 宿題をする)
             (Hausaufgaben für Montag)
@@ -12,7 +12,7 @@ mindmap
 
 ```mermaid
 mindmap
-    root((Buch)
+    root(Buch)
         (Buchstruktur: 本の構造)
             (Seite: ページ)
                 (Welche Site ~?: どのページに〜？)
@@ -34,7 +34,7 @@ mindmap
 
 ```mermaid
 mindmap
-  root((Es wäre))
+  root(Es wäre)
     (Es wäre besser,)
         Es wäre besser, wenn
             Es wäre besser, wenn du früher kommen könntest: "早めに来てくれるといいでしょう"
