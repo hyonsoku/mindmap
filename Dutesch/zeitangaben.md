@@ -26,6 +26,7 @@ mindmap
             dieses Wochenende
             letztes Wochenende
             nächstes Wochenende
+            (Schönes Wochenende.)
         Monat
             jeden Monat
             diesen Monat

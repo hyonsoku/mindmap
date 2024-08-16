@@ -5,6 +5,9 @@ mindmap
             (Hausaufgaben machen: 宿題をする)
             (Hausaufgaben für Montag)
             (Aufgabe: 課題)
+            (die Hausaufbagen korrigieren: 宿題を添削する)
+        (Kursbuch)
+            (im Kursbuch D und E bearbeiten)
 ```
 
 ```mermaid
@@ -17,6 +20,9 @@ mindmap
     erklären: "説明する"
     zuhören: "聞く"
     wiederholen: "繰り返す"
+        (die Zahlen von 0 bin 10 wiederholen)
+        (eine Wiederholung)
+            (eine Widerholung von Lektion 1)
     fragen: "質問する"
     antworten: "答える"
         Antwort: 答え
