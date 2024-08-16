@@ -79,3 +79,24 @@ mindmap
             hiflreich: 役立つ
                 hiflreich sein
 ```
+
+```mermaid
+mindmap
+    root((gehen))
+        (Ich gehe)
+        (zwei Tage pro Woche)
+        (in ~ gehen)
+            (in den Supermarkt gehen)
+            (in die Bibliothek gehen)
+            (in die Stadt gehen)
+        (zu ~ gehen)
+            (zur ~ gehen)
+                (zur Arbeit gehen)
+                (zur Schule gehen)
+            (zum ~ gehen)
+                (zum Deutschkurs gehen)
+                (zum Bahnhof gehen)
+        (verv + gehen)
+            (einkaufen gehen)
+            (spazieren gehen)
+```
