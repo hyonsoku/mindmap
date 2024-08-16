@@ -2,7 +2,7 @@
 
 ```mermaid
 mindmap
-    root((schauen: 見る))
+    root(schauen: 見る)
         (auf die Tafel schauen: "黒板を見る")
         (in das Buch schauen: "本を覗く／本を見る")
         (nach vorne schauen: "前を向く")
