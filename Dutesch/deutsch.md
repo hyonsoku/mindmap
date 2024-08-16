@@ -80,11 +80,15 @@ mindmap
                 hiflreich sein
 ```
 
+## Gehen
+
 ```mermaid
 mindmap
     root((gehen))
         (Ich gehe)
-        (zwei Tage pro Woche)
+        (temporal)
+            (manchmal)
+            (zwei Tage pro Woche)
         (in ~ gehen)
             (in den Supermarkt gehen)
             (in die Bibliothek gehen)
@@ -100,3 +104,6 @@ mindmap
             (einkaufen gehen)
             (spazieren gehen)
 ```
+
+- Ich gehe manchmal für meine Gesundheit spazieren.
+- Ich gehe zwei Tage pro Woche zum Deutschkurs.
