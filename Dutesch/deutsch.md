@@ -3,9 +3,8 @@ mindmap
     root((Deutsch))
         (Hausaufgaben: 宿題)
             (Hausaufgaben machen: 宿題をする)
-        (C)
-            (C1)
-            (C2)
+            (Hausaufgaben für Montag)
+            (Aufgabe: 課題)
 ```
 
 ```mermaid
