@@ -20,4 +20,14 @@ mindmap
     üben: "練習する"
     verstehen: "理解する"
         (Ich verstehe.: 分かりました。)
+    zuordnen: 割り当てる
+    die Zeichnung: 挿絵
+    anschauen: じっくり見る
+    das Gespräche: 会話
+    bekannt: 著名な
+    zeigen: 見せる
+    ankreuzen: ×印を付ける
+    die Folge: シリーズ
+    vergleichen: 比較する
+    die Eltern: 両親
 ```
