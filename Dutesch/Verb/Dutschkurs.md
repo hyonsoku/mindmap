@@ -23,6 +23,11 @@ mindmap
     zuordnen: 割り当てる
     die Zeichnung: 挿絵
     anschauen: じっくり見る
+        sich eine Präsentation anschauen: プレゼンテーションを見る
+        sich einen Text anschauen: テキストを見る
+        sich die Aufgabe anschauen: 課題を見る
+        sich ein Video anschauen: ビデオを見る
+        sich ein Bild anschauen: 絵を見る
     das Gespräche: 会話
     bekannt: 著名な
     zeigen: 見せる
