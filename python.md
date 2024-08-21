@@ -20,4 +20,12 @@ mindmap
                         ("`response.raise_for_status()`")
                             (HTTPエラーをチェック)
             (asyncio.gather)
+        (CTF)
+            (ptrlib)
+                (socket)
+                    (Proces)
+                    (Socket)
+                        ("`sendlineafter()`")
+                        ("`interactive()`)
+                    (SSH)
 ```
