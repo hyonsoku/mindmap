@@ -72,4 +72,8 @@ mindmap
             (Notizblock: メモ帳)
             (Kugelschreiber: ボールペン)
         (der Teil: 部分)
+        (Lass uns ~.: ~しよう)
+            (Lass uns anfangen.: 始めよう。)
+        (bereit: 準備ができた)
+            (Bist du bereit?: 準備はできた？)
 ```
