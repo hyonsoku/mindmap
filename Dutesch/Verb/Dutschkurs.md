@@ -1,5 +1,6 @@
 ## Dutschkurs
 
+### Verb
 
 ```mermaid
 mindmap
@@ -22,14 +23,9 @@ mindmap
     verstehen: "理解する"
         (Ich verstehe.: 分かりました。)
     zuordnen: 割り当てる
-    die Zeichnung: 挿絵
-    das Gespräche: 会話
-    bekannt: 著名な
     zeigen: 見せる
     ankreuzen: ×印を付ける
-    die Folge: シリーズ
     vergleichen: 比較する
-    die Eltern: 両親
     legen
         (auf den Tisch legen: テーブルの上に置く)
     setzen
@@ -38,4 +34,16 @@ mindmap
         (auf jemanden warten: 誰かを待つ)
     stossen
         (auf ein Problem stossen: 問題に直面する)
+```
+
+### Others
+
+```mermaid
+mindmap
+    root(Others)
+        die Zeichnung: 挿絵
+        das Gespräche: 会話
+        bekannt: 著名な
+        die Folge: シリーズ
+        die Eltern: 両親
 ```
