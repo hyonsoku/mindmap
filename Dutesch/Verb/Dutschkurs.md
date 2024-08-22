@@ -9,6 +9,7 @@ mindmap
     sprechen: "話す"
     schreiben: "書く"
     lesen: "読む"
+        (Ich lese gern ~.: ~を読むのが好き)
     erklären: "説明する"
     zuhören: "聞く"
     wiederholen: "繰り返す"
@@ -34,6 +35,20 @@ mindmap
         (auf jemanden warten: 誰かを待つ)
     stossen
         (auf ein Problem stossen: 問題に直面する)
+    (klopfen: ノックする)
+    (weitermachen: さらに続ける)
+```
+
+#### 思う
+
+```mermaid
+mindmap
+    root(思う)
+        (denken)
+        (finden)
+        (meinen)
+        (glauben)
+            (Ich glaube, 主文: 私は〜だと思う)
 ```
 
 ### Others
@@ -46,4 +61,15 @@ mindmap
         bekannt: 著名な
         die Folge: シリーズ
         die Eltern: 両親
+        Büro: オフィス
+            (Schreibtisch: 机)
+            (Stuhl: 椅子)
+            (Drucker: プリンター)
+            (Telefon: 電話)
+            (Akte: 書類)
+            (Besprechungsraum: 会議室)
+            (Büroklammer: クリップ)
+            (Notizblock: メモ帳)
+            (Kugelschreiber: ボールペン)
+        (der Teil: 部分)
 ```
