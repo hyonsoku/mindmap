@@ -37,7 +37,18 @@ mindmap
         (auf ein Problem stossen: 問題に直面する)
     (klopfen: ノックする)
     (weitermachen: さらに続ける)
+    (werden: ~になる)
+        (動詞)
+            (werden + 動詞/名詞)
+            (状態の変化)
+        (助動詞)
+            (未来形)
+                (werden + 不定詞)
+            (受動態)
+                (werden + 過去分詞)
 ```
+
+Wir werden dich vermissen.: 私たちはあなたがいないくて寂しくなります。
 
 #### 思う
 
