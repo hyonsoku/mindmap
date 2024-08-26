@@ -26,6 +26,6 @@ mindmap
                     (Proces)
                     (Socket)
                         ("`sendlineafter()`")
-                        ("`interactive()`)
+                        ("`interactive()`")
                     (SSH)
 ```
