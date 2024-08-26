@@ -10,8 +10,6 @@ mindmap
         die Folge: シリーズ
         die Eltern: 両親
         Büro: オフィス
-            (Schreibtisch: 机)
-            (Stuhl: 椅子)
             (Drucker: プリンター)
             (Telefon: 電話)
             (Akte: 書類)
@@ -19,6 +17,17 @@ mindmap
             (Büroklammer: クリップ)
             (Notizblock: メモ帳)
             (Kugelschreiber: ボールペン)
+            (Büromöbel: オフィス家具)
+                (Tisch)
+                    (Schreibtisch: 机)
+                    (Computertisch: コンピューターデスク)
+                (Stuhl: 椅子)
+                    (Bürostuhl: オフィスチェア)
+                (Regal: 棚)
+                (Schrank: キャビネット・棚)
+                    (Aktenschrank: 書類キャビネット)
+                (Lampe: ランプ)
+                (Schublade: 引き出し)
         (der Teil: 部分)
         (Lass uns ~.: ~しよう)
             (Lass uns anfangen.: 始めよう。)
