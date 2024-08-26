@@ -62,29 +62,31 @@ mindmap
             (Ich glaube, 主文: 私は〜だと思う)
 ```
 
-### Others
+#### 再起動詞
 
 ```mermaid
 mindmap
-    root(Others)
-        die Zeichnung: 挿絵
-        das Gespräche: 会話
-        bekannt: 著名な
-        die Folge: シリーズ
-        die Eltern: 両親
-        Büro: オフィス
-            (Schreibtisch: 机)
-            (Stuhl: 椅子)
-            (Drucker: プリンター)
-            (Telefon: 電話)
-            (Akte: 書類)
-            (Besprechungsraum: 会議室)
-            (Büroklammer: クリップ)
-            (Notizblock: メモ帳)
-            (Kugelschreiber: ボールペン)
-        (der Teil: 部分)
-        (Lass uns ~.: ~しよう)
-            (Lass uns anfangen.: 始めよう。)
-        (bereit: 準備ができた)
-            (Bist du bereit?: 準備はできた？)
+    root(Reflexive Verben)
+        (sich waschen)
+            (体を洗う)
+        (sich anziehen)
+            (服を着る)
+        (sich ausruhen)
+            (休む)
+        (sich beeilen)
+            (急ぐ)
+        (sich setzen)
+            (座る)
+        (sich freuen)
+            (喜ぶ, 楽しみにする)
+        (sich interessieren)
+            (興味を持つ)
+        (sich treffen)
+            (会う)
+        (sich ärgen)
+            (腹を立てる)
+        (sich erinnern)
+            (思い出す)
+        (sein fühlen)
+            (感じる)
 ```
