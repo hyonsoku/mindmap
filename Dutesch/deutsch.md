@@ -31,3 +31,35 @@ mindmap
                     シェアしてくれてありがとう。
         (Vilen Dank)
 ```
+
+## 所有冠詞
+
+```mermaid
+mindmap
+    root(所有冠詞)
+        (mein)
+        (dein)
+        (sein)
+            (sein + 男性・中性名詞)
+                (sein Auto)
+                (sein Haus)
+                (sein Buch)
+                (sein Telefon)
+                (sein Freund)
+                (sein Zimmer)
+                (sein Computer)
+                (sein Name)
+            (seine + 女性名詞・複数形)
+                (seine Tache)
+                (seine Familie)
+                (seine Freunde)
+                (seine Arbeit)
+                (seine Meinung)
+                (seine Schwester)
+                (seine Wohnung)
+                (seine Uhr)
+        (ihr)
+        (unser)
+        (euer)
+        (Ihr)
+```
