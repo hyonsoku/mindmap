@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.4/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.18.4/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.4/dist/index.js"></script><script>(r => {
+              setTimeout(r);
+            })(function renderToolbar() {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+            })(() => window.markmap,null,{"content":"RAM","children":[{"content":"DRAM","children":[{"content":"データ保存方法","children":[{"content":"コンデンサ","children":[{"content":"1 bit","children":[],"payload":{"tag":"li","lines":"7,8"}},{"content":"高集積化","children":[{"content":"大容量","children":[],"payload":{"tag":"li","lines":"9,10"}}],"payload":{"tag":"li","lines":"8,10"}},{"content":"安価","children":[],"payload":{"tag":"li","lines":"10,11"}},{"content":"自然放電","children":[{"content":"リフレッシュ動作","children":[],"payload":{"tag":"li","lines":"12,14"}}],"payload":{"tag":"li","lines":"11,14"}}],"payload":{"tag":"li","lines":"6,14"}}],"payload":{"tag":"h3","lines":"4,5"}},{"content":"用途","children":[{"content":"主記憶","children":[{"content":"メモリインタリープ","children":[{"content":"並列アクセス","children":[],"payload":{"tag":"li","lines":"18,19"}},{"content":"高速化","children":[],"payload":{"tag":"li","lines":"19,20"}}],"payload":{"tag":"li","lines":"17,20"}}],"payload":{"tag":"li","lines":"16,20"}},{"content":"グラフィックスカード","children":[],"payload":{"tag":"li","lines":"20,21"}},{"content":"組み込みシステム","children":[],"payload":{"tag":"li","lines":"21,23"}}],"payload":{"tag":"h3","lines":"14,15"}}],"payload":{"tag":"h2","lines":"2,3"}},{"content":"SRAM","children":[{"content":"データ保存方法","children":[{"content":"フリップフロップ回路","children":[{"content":"高速","children":[],"payload":{"tag":"li","lines":"28,29"}},{"content":"低集積度","children":[{"content":"小容量","children":[],"payload":{"tag":"li","lines":"30,31"}},{"content":"高価","children":[],"payload":{"tag":"li","lines":"31,32"}}],"payload":{"tag":"li","lines":"29,32"}},{"content":"リフレッシュ不要","children":[],"payload":{"tag":"li","lines":"32,34"}}],"payload":{"tag":"li","lines":"27,34"}}],"payload":{"tag":"h3","lines":"25,26"}},{"content":"用途","children":[{"content":"キャッシュメモリ","children":[{"content":"CPU-主記憶間","children":[],"payload":{"tag":"li","lines":"37,38"}},{"content":"高速性","children":[],"payload":{"tag":"li","lines":"38,39"}},{"content":"階層構造","children":[{"content":"L1","children":[{"content":"最も高速","children":[],"payload":{"tag":"li","lines":"41,42"}},{"content":"小容量","children":[],"payload":{"tag":"li","lines":"42,43"}}],"payload":{"tag":"li","lines":"40,43"}},{"content":"L2","children":[{"content":"中程度の速度","children":[],"payload":{"tag":"li","lines":"44,45"}},{"content":"中程度の容量","children":[],"payload":{"tag":"li","lines":"45,46"}}],"payload":{"tag":"li","lines":"43,46"}},{"content":"L3","children":[{"content":"速度は遅い","children":[],"payload":{"tag":"li","lines":"47,48"}},{"content":"大容量キャッシュ","children":[],"payload":{"tag":"li","lines":"48,49"}}],"payload":{"tag":"li","lines":"46,49"}}],"payload":{"tag":"li","lines":"39,49"}},{"content":"キャッシュヒット","children":[],"payload":{"tag":"li","lines":"49,50"}},{"content":"キャッシュミス","children":[],"payload":{"tag":"li","lines":"50,51"}},{"content":"ローカリティの原則","children":[],"payload":{"tag":"li","lines":"51,52"}},{"content":"置換アルゴリズム","children":[],"payload":{"tag":"li","lines":"52,53"}},{"content":"データの一貫性","children":[],"payload":{"tag":"li","lines":"53,54"}}],"payload":{"tag":"li","lines":"36,54"}},{"content":"レジスタ","children":[],"payload":{"tag":"li","lines":"54,55"}},{"content":"ネットワーク機器","children":[],"payload":{"tag":"li","lines":"55,56"}},{"content":"デジタル信号処理","children":[{"content":"FPGA","children":[],"payload":{"tag":"li","lines":"57,58"}},{"content":"DSP","children":[],"payload":{"tag":"li","lines":"58,59"}}],"payload":{"tag":"li","lines":"56,59"}}],"payload":{"tag":"h3","lines":"34,35"}}],"payload":{"tag":"h2","lines":"23,24"}}],"payload":{"tag":"h1","lines":"0,1"}},{})</script>
+</body>
+</html>
